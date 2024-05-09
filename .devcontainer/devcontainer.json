@@ -14,7 +14,9 @@
         "editorconfig.editorconfig",
         "saratravi.elixir-formatter",
         "jakebecker.elixir-ls",
-        "redhat.vscode-yaml"
+        "redhat.vscode-yaml",
+        "phoenixframework.vscode-phoenix",
+        "elixir-lsp.vscode-elixir-ls"
       ]
     },
     // Use 'forwardPorts' to make a list of ports inside the container available locally.
